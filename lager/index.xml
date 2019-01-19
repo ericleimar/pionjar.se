@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lager on Pionjärerna</title>
+    <link>//pionjar.se/lager/</link>
+    <description>Recent content in Lager on Pionjärerna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Tue, 31 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//pionjar.se/lager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sommarläger</title>
+      <link>//pionjar.se/lager/2018/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/lager/2018/</guid>
+      <description>Årets Pionjärläger blir ett äkta äventyr då vi beger oss genom garderoben till en Narniainspirerad värld. Prinsen behöver din hjälp för att bli fri från sin fångenskap. Ta med dina kompisar och all den styrka, smidighet och list ni kan uppbåda. Vi garanterar fjärilar i magen.
+Anmäl dig via formuläret längre ner på sidan.
+På Pionjärlägret sover du i tält med dina kompisar, lagar god mat över öppen eld, badar, pysslar, upplever spännande äventyr, löser kluriga uppgifter och testar roliga utmaningar.</description>
+    </item>
+    
+  </channel>
+</rss>
